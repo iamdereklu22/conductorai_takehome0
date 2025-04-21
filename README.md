@@ -5,7 +5,7 @@ If the document mentions **“in millions”**, the script automatically **scale
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.13
 
