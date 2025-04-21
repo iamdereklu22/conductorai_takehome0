@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python extract_max_number.py path/to/document.pdf
+python extract_max_number.py <pdf_path>
 ```
